@@ -6,6 +6,6 @@ export type QueryItem = {
 };
 
 export const BACKEND_API_URL =
-  "https://cloud-24-a-backend-dngtdje2drh8e5a3.southeastasia-01.azurewebsites.net/queries";
+  " https://sagar-rai-cloud-backend-webapp-2024-a-apd2csgqaje3bkgw.uaenorth-01.azurewebsites.net/queries"
 
 export const APP_API_URL = "/api/queries";
